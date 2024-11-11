@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![image](https://github.com/user-attachments/assets/a7fc26ed-0e7d-427c-a7dd-497ef751c85b)
+
 <!--
 **danengl/danengl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
