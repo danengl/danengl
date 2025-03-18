@@ -5,6 +5,10 @@
 
 ###
 
+<h3 align="left">System.out.println("Hello World");</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
   <img width="15" />
@@ -59,47 +63,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="170" src="https://media.giphy.com/media/y7IQJbLegexig/giphy.gif?cid=ecf05e47a39dljkcnouwg2nuhy0qgzfater6pahfb8wfsn2n&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="left">
-  <a href="@danengl09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
-  </a>
-  <a href="@wagmonahanapin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danengl/danengl/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danengl/danengl/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danengl/danengl/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img align="left" height="200" src="https://media.giphy.com/media/lMHSIuGXHYNdC/giphy.gif?cid=ecf05e47a39dljkcnouwg2nuhy0qgzfater6pahfb8wfsn2n&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <img align="left" height="200" src="https://media.giphy.com/media/rw3oHXGVUuUE0/giphy.gif?cid=ecf05e474px7hrtzu6mpmpuu0e7v3tesf8sacewp3mlbhyxp&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/m6Gkz5AVTo7o4/giphy.gif?cid=ecf05e478i3qwekbs21q4q1c8k53ck6yklpgf4d07bfvemmq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
-
-<h3 align="left">System.out.println("Hello World");</h3>
 
 ###
 
