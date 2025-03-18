@@ -1,7 +1,11 @@
-## children are being killed 
-donate here https://oneummah.org.uk/appeals/gaza-emergency-appeal/
+# ni Hao fine shyt, i'm still in college.
 
-![image](https://github.com/user-attachments/assets/a7fc26ed-0e7d-427c-a7dd-497ef751c85b)
+# BSIT STUDENT
+
+
+<h2> Machine learning </h2> <br>
+<h2> Networking </h2> <br>
+<h2> Web Development </h2> <br>
 
 
 
