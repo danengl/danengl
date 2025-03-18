@@ -1,11 +1,11 @@
-# ni Hao fine shyt, i'm still in college.
+# Ni Hao fine shyt, i'm still in college.
 
 # BSIT STUDENT
 
 
-<h2> Machine learning </h2> <br>
-<h2> Networking </h2> <br>
-<h2> Web Development </h2> <br>
+<h3> Machine learning </h3> <br>
+<h3> Networking </h3> <br>
+<h3> Web Development </h3> <br>
 
 
 
