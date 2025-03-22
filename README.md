@@ -5,9 +5,7 @@
 
 
 <h3 align="left">System.out.println("Hello World");</h3><br>
-
-
-<h2 style="fontweight: 600;">TECH STACK👨🏻‍💻</h2>
+<h1 style="fontweight: 600;">TECH STACK👨🏻‍💻</h1>
 
 
 
