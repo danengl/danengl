@@ -4,7 +4,10 @@
 <h5> Web Development </h5>
 
 
-<h3 align="left">System.out.println("Hello World");</h3>
+<h3 align="left">System.out.println("Hello World");</h3><br>
+
+
+<h2 style="fontweight: 600;">TECH STACK👨🏻‍💻</h2>
 
 
 
