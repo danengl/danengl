@@ -8,6 +8,7 @@
 <h1 style="fontweight: 600;">👨🏻‍💻</h1>
 
 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
@@ -71,6 +72,6 @@
 
 ###
 
-<img align="left" height="200" src="**https://media.giphy.com/media/rw3oHXGVUuUE0/giphy.gif?cid=ecf05e474px7hrtzu6mpmpuu0e7v3tesf8sacewp3mlbhyxp&ep=v1_gifs_search&rid=giphy.gif&ct=g**"  />
+<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pnc3J0cmJvNWViYmhucXAzamlxcXFheGxiZGRya2Nremt6b3NyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a69YeIegtC60k3dUdc/giphy.gif"  />
 
 ###
