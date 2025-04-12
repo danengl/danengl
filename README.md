@@ -1,4 +1,4 @@
-<h1 align="left">𝙔𝙤 𝙣𝙞 𝙝𝙖𝙤 𝙛𝙞𝙣𝙚 𝙨𝙝𝙮𝙩, 𝙨𝙩𝙞𝙡𝙡 𝙞𝙣 𝙘𝙤𝙡𝙡𝙚𝙜𝙚<br>𝘽𝙎𝙄𝙏 𝙎𝙏𝙐𝘿𝙀𝙉𝙏</h1>
+<h1 align="left"><br>𝘽𝙎𝙄𝙏 𝙎𝙏𝙐𝘿𝙀𝙉𝙏</h1>
 <h5> Machine learning </h5> 
 <h5> Networking </h5> 
 <h5> Web Development </h5>
