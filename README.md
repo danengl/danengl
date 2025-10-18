@@ -1,4 +1,4 @@
-<h1 align="left"><br>𝘽𝙎𝙄𝙏</h1>
+
 <h5> Machine learning </h5> 
 <h5> Networking </h5> 
 <h5> Web Development </h5>
